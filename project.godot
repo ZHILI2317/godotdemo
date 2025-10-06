@@ -11,5 +11,12 @@ config_version=5
 [application]
 
 config/name="godotdemo"
-config/features=PackedStringArray("4.4", "Forward Plus")
+run/main_scene="uid://ddhgoxw3qii8f"
+config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
+
+[display]
+
+window/size/viewport_width=800
+window/size/viewport_height=600
+window/size/resizable=false
